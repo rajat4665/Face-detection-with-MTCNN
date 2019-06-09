@@ -23,4 +23,9 @@ There are many face detection algorithms such as Haar-feature based cascade clas
 <h3>Install these requirements:</h3>
 <pre><span id="pip-command">pip install mtcnn</span></pre>
 <pre><span id="pip-command">pip install matplotlib</span></pre>
+<h3>Input:</h3>
+<img class="alignnone size-full wp-image-106" src="https://getpython.files.wordpress.com/2019/06/321.jpg" alt="321" width="1000" height="788" />
+<h3>Output:</h3>
+
+<img class="alignnone size-full wp-image-107" src="https://getpython.files.wordpress.com/2019/06/facedetection_with_mtcnn.png" alt="FAcedetection_with_MTCNN" width="1072" height="466" />
 
